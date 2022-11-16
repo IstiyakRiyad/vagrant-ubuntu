@@ -3,7 +3,7 @@
   <h1>
     <a href="https://www.vagrantup.com"><img src="https://user-images.githubusercontent.com/54698049/202153788-a9c20c17-f3c6-4ef5-8bc6-2b8cb84b2bee.png" /></a>
   </h1>
-  <h1>Vagrant</h1>
+  <h1>Virtual Box VM</h1>
   <p>
     This is simple vagrant file using ruby. Here this vagrant file will start a ubuntu vm in Virtual Box
   </p>
@@ -47,3 +47,5 @@ See the ssh config (private key)
 ``` bash
 vagrant ssh-config
 ```
+
+![Screenshot from 2022-11-16 16-01-08](https://user-images.githubusercontent.com/54698049/202172762-6dd63dbb-1a23-47a5-8637-cda080cb2b11.png)
